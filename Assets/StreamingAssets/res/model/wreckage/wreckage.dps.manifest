@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 616805899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 170cc5e05a72676534f94b977d864dbc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fad6466450eb00d13912d322c12efed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Model/Wreckage/FBX/Materials/01 - Default_test.mat
+- Assets/Res/Effects/FBX/plane01.FBX
+- Assets/Res/Model/Wreckage/FBX/Materials/planet01.mat
+- Assets/Res/Model/Wreckage/FBX/Materials/Obstacle.mat
+- Assets/Res/Model/Wreckage/FBX/Materials/No Name.mat
+- Assets/Res/Model/Character/FBX/textures/UtilToonGradient.png
+- Assets/Res/Effects/FBX/Textures/glowring02.png
+- Assets/Res/Model/Wreckage/Library/Animation/ef_point03.controller
+- Assets/Res/Model/Wreckage/Library/Animation/electric_rotation_up.anim
+- Assets/Res/Model/Wreckage/FBX/Wreckage_01.FBX
+- Assets/Res/Model/Wreckage/FBX/Materials/Wreckage_02.mat
+- Assets/Res/Model/Wreckage/Library/Animation/point.anim
+- Assets/Res/Model/Wreckage/FBX/Materials/Obstacle2.mat
+- Assets/Res/Model/Wreckage/FBX/sp_plane.FBX
+- Assets/Res/Effects/FBX/Textures/particle_01.tga
+- Assets/Res/Model/Wreckage/Library/Animation/point02.anim
+- Assets/Res/Effects/FBX/Textures/electric.png
+- Assets/Res/Model/Wreckage/FBX/Materials/Obstacle2_01.mat
+- Assets/Res/Effects/FBX/Materials/01 - Default.mat
+- Assets/Res/Effects/FBX/Materials/fire_box.mat
+- Assets/Res/Model/Wreckage/Library/Animation/electric_rotation_down.anim
+- Assets/Res/Model/Wreckage/FBX/Textures/Core_Electric.png
+- Assets/Res/Model/Wreckage/FBX/Obstacle_06.FBX
+- Assets/Res/Effects/FBX/Textures/electric_02.png
+- Assets/Res/Model/Wreckage/FBX/Textures/Wreckage_01.png
+- Assets/Res/Model/Wreckage/Library/Animation/sp_plane.anim
+- Assets/Res/Model/Wreckage/Library/Animation/ef_point04.controller
+- Assets/Res/Model/Wreckage/FBX/Textures/Core_Electric_Lights.tga
+- Assets/Res/Model/Wreckage/Library/Animation/wreckage_02_01.anim
+- Assets/Res/Model/Wreckage/FBX/Materials/Portal.mat
+- Assets/Res/Model/Wreckage/FBX/Textures/Obstacle_05.png
+- Assets/Res/Model/Wreckage/FBX/Textures/Portal_Lights.tga
+- Assets/Res/Effects/FBX/Materials/smoke.mat
+- Assets/Res/Model/Wreckage/FBX/Textures/Portal.png
+- Assets/Res/Model/Wreckage/FBX/Wreckage_01_L.FBX
+- Assets/Res/Model/Wreckage/Library/Animation/Core_Electric_Down.controller
+- Assets/Res/Model/Wreckage/FBX/Materials/sp_plane.mat
+- Assets/Res/Model/Wreckage/FBX/Textures/Wreckage_01_L.png
+- Assets/Res/Effects/FBX/Materials/spark.mat
+- Assets/Res/Model/Wreckage/Library/Animation/sp_plane.controller
+- Assets/Res/Effects/FBX/Materials/light_ball02.mat
+- Assets/Res/Effects/FBX/Materials/electric03.mat
+- Assets/Res/Model/Wreckage/FBX/Materials/Wreckage_01_L.mat
+- Assets/Res/Model/Wreckage/FBX/Wreckage_01_m.FBX
+- Assets/Res/Model/Wreckage/Library/Animation/planet_rotation.anim
+- Assets/Res/Model/Wreckage/FBX/Wreckage_01_1.FBX
+- Assets/Res/Model/Wreckage/FBX/Obstacle_05_01.FBX
+- Assets/Res/Model/Wreckage/FBX/Textures/sp_plane.tga
+- Assets/Res/Effects/FBX/Textures/electric02.png
+- Assets/Res/Effects/FBX/Textures/smoke.png
+- Assets/Res/Model/Wreckage/FBX/Core_Electric.FBX
+- Assets/Res/Model/Wreckage/FBX/portal.FBX
+- Assets/Res/Effects/FBX/Materials/light.mat
+- Assets/Res/Model/Wreckage/Library/Animation/Wreckage_02_00.controller
+- Assets/Res/Model/Wreckage/FBX/Materials/Wreckage_01_sp.mat
+- Assets/Res/Model/Wreckage/FBX/Obstacle_01.FBX
+- Assets/Res/Model/Wreckage/FBX/Wreckage_01_2.FBX
+- Assets/Res/Model/Wreckage/FBX/Obstacle_06_01.FBX
+- Assets/Res/Effects/FBX/Materials/light_ball.mat
+- Assets/Res/Model/Wreckage/FBX/Textures/planet_02.png
+- Assets/Res/Model/Wreckage/FBX/Materials/Wreckage_01.mat
+- Assets/Res/Model/Wreckage/FBX/Wreckage_01_s.FBX
+- Assets/Res/Model/Wreckage/FBX/Materials/Lights01.mat
+- Assets/Res/Effects/FBX/Textures/ring01.png
+- Assets/Res/Effects/FBX/Materials/spark_02.mat
+- Assets/Res/Effects/FBX/Materials/electric02.mat
+- Assets/Res/Model/Wreckage/Library/Animation/Sphere.controller
+- Assets/Res/Model/Wreckage/FBX/Obstacle_05.FBX
+- Assets/Res/Effects/FBX/Materials/electric.mat
+- Assets/Res/Model/Wreckage/FBX/Materials/Core_Electric01.mat
+- Assets/Res/Model/Wreckage/FBX/Wreckage_01_3.FBX
+- Assets/Res/Model/Wreckage/FBX/Materials/Obstacle_01.mat
+- Assets/Res/Model/Wreckage/FBX/Materials/Lights.mat
+- Assets/Res/Model/Wreckage/FBX/Textures/Obstacle_06.png
+- Assets/Res/Model/Wreckage/Library/Animation/Core_Electric_Up.controller
+- Assets/Res/Model/Wreckage/FBX/Textures/Wreckage_02.png
+- Assets/Res/Model/Wreckage/FBX/Wreckage_02.FBX
+Dependencies: []

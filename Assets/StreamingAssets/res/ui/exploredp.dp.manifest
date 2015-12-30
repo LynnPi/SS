@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3394523453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e955ea14a1e069f29e614493feadb27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 47de8ec333b460e63209a1e536058899
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/UI/panel/ExplorePanel/Button_Berth.anim
+- Assets/Res/UI/panel/ExplorePanel/WarningFilterPanel.controller
+- Assets/Res/UI/panel/ExplorePanel/ExploreAnimator.controller
+- Assets/Res/UI/panel/ExplorePanel/anim_Warning_Filter.anim
+- Assets/Res/UI/panel/ExplorePanel/PositionInsideGuider.controller
+- Assets/Res/UI/panel/ExplorePanel/Image_Ring.anim
+- Assets/Res/UI/panel/ExplorePanel/Button_FloatClick.anim
+Dependencies: []

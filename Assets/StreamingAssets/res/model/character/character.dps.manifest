@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 1677154871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d607f900c22e5430c10f9589d3737812
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ad1d9d3afdab7d14ee3b6dc6acc3241
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Model/Character/FBX/textures/The survivors 01_02.png
+- Assets/Res/Effects/FBX/Materials/energy.mat
+- Assets/Res/Model/Character/FBX/Materials/The survivors 01_pack.mat
+- Assets/Res/Model/Character/FBX/Materials/The survivors 01_head.mat
+- Assets/Res/Model/Character/FBX/The survivors 01_Ready.FBX
+- Assets/Res/Model/Character/FBX/textures/ToonLit_cubemap.png
+- Assets/Res/Model/Character/FBX/Materials/The survivors 01_01.mat
+- Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader
+- Assets/Res/Model/Character/FBX/The survivors 01_Hit.FBX
+- Assets/Res/Model/Character/FBX/The survivors 01_Standard.FBX
+- Assets/Res/Model/Character/FBX/textures/The survivors 01_01.png
+- Assets/Res/Model/Character/FBX/The survivors 01_Move.FBX
+- Assets/Res/Model/Character/FBX/Materials/The survivors 01_02.mat
+- Assets/Res/Model/Character/FBX/Materials/The survivors 01_body.mat
+- Assets/Res/Model/Character/Library/sur Animator Controller.controller
+- Assets/Res/Model/Character/FBX/The survivors 01_Skin.FBX
+Dependencies:
+- Assets/GameRes/trunk/android/res/model/wreckage/wreckage.dps

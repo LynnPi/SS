@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2099993068
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d0c69dcd11f65999ed7fa4c602a1935
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f0a2124e873fcf33f2b383e0f05acb44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c32d47d056670a64890d5bf1274d9138, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Effects/Prefabs/pickup_03.prefab
+Dependencies:
+- Assets/GameRes/trunk/android/res/model/wreckage/wreckage.dps
+- Assets/GameRes/trunk/android/res/effect/effect.dps

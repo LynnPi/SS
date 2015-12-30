@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1270158232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96238ad0311f61e40c4eb8ca3fbaff7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4109e3660718c9ce777c890d02b5d9cc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Model/Character/Prefabs/Thesurvivors_01.prefab
+Dependencies:
+- Assets/GameRes/trunk/android/res/model/character/character.dps
+- Assets/GameRes/trunk/android/res/model/wreckage/wreckage.dps

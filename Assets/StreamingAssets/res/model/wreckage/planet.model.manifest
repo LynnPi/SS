@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3515311540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab2bbd41c243244d6f8f64a3adebde47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40b85d1b40ebf968534d8c6663b430c4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Model/Wreckage/Prefabs/planet.prefab
+Dependencies:
+- Assets/GameRes/trunk/android/res/model/wreckage/wreckage.dps

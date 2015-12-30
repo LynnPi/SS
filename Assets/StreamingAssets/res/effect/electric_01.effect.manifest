@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3117391891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10ab720973aa2fb1275f94794ff9c9d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7fc4541be76352a76adeacd5e5e4b7a8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Effects/Prefabs/electric_03.prefab
+- Assets/Res/Effects/Prefabs/electric_02.prefab
+- Assets/Res/Effects/Prefabs/electric_01.prefab
+Dependencies:
+- Assets/GameRes/trunk/android/res/model/wreckage/wreckage.dps

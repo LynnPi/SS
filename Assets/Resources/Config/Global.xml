@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Config>  
+  
+  <!--系统提示,ID对应的内容,比如登录失败-->
+  <SysNotice ID="1" Content="无效的用户名"/>
+  
+  <!--UI显示控制  不在表内的则关闭之前所有的界面
+      UIName      即将打开的界面名
+      DontClose   打开时,不可关闭的界面,除此以外全部关闭  为All时表示不关闭所有界面,界面名之间可用英文逗号","隔开表示多个界面
+      ClearOpened 打开时是否关闭所有打开的界面,默认为false不清除
+      JustCloseSelfWhenClosing  关闭时只关闭自身,不重新打开之前的界面,用作提示对话框等特殊行为的界面
+      
+      eg: <UIDisplayControl UIName="QuestPanel" DontClose="QuestPanel"/>
+      -->
+  <UIDisplayControl UIName="LoginPanel" ClearOpened="true"/>
+ 
+  <UIDisplayControl UIName="QuestPanel" ClearOpened="true"/>
+
+  <UIDisplayControl UIName="ExplorePanel" ClearOpened="true"/>
+
+</Config>

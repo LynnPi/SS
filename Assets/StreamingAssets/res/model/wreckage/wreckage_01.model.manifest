@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3555177213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fdda5e6a73657af3a4cceafd47a38b41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 71934ba5baab49a88cf6c00bd8cd99e9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Model/Wreckage/Prefabs/Wreckage_01.prefab
+Dependencies:
+- Assets/GameRes/trunk/android/res/model/wreckage/wreckage.dps

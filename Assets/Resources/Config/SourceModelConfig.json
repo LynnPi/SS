@@ -1,0 +1,14 @@
+﻿{
+  "source": {
+    "ChestA": "source03",
+    "ChestB": "source03",
+    "ChestC": "source03",
+    "Oxygen": "source",
+    "Fuel": "source02"
+  },
+  "music": {
+    "Login": "Music/login",
+    "Quest": "Music/login",
+    "Explore": "Music/taikongren"
+  }
+}

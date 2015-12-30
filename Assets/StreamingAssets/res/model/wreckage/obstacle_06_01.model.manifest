@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4027789111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7461cb21be8d109e28d0e916d9d0934d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 67e99222a1589ff9377ee6366f65dd7a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Model/Wreckage/Prefabs/Obstacle_06_01.prefab
+Dependencies:
+- Assets/GameRes/trunk/android/res/model/wreckage/wreckage.dps

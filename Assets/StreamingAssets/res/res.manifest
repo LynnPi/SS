@@ -1,0 +1,159 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: model/character/character.dps
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_1:
+      Name: model/character/thesurvivors_01.model
+      Dependencies:
+        Dependency_0: model/character/character.dps
+        Dependency_1: model/wreckage/wreckage.dps
+    Info_2:
+      Name: ui/explore.ui
+      Dependencies:
+        Dependency_0: ui/atlas_explore.dp
+        Dependency_1: ui/exploredp.dp
+    Info_3:
+      Name: ui/questpanel.ui
+      Dependencies: {}
+    Info_4:
+      Name: ui/login.ui
+      Dependencies: {}
+    Info_5:
+      Name: ui/gameover.ui
+      Dependencies:
+        Dependency_0: ui/atlas_explore.dp
+    Info_6:
+      Name: model/wreckage/wreckage.dps
+      Dependencies: {}
+    Info_7:
+      Name: model/wreckage/wreckage_02.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_8:
+      Name: model/wreckage/wreckage_01.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_9:
+      Name: model/wreckage/obstacle_01.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_10:
+      Name: ui/atlas_explore.dp
+      Dependencies: {}
+    Info_11:
+      Name: level/1.level
+      Dependencies: {}
+    Info_12:
+      Name: ui/exploredp.dp
+      Dependencies: {}
+    Info_13:
+      Name: ui/questpaneldp.dp
+      Dependencies: {}
+    Info_14:
+      Name: effect/effect.dps
+      Dependencies: {}
+    Info_15:
+      Name: effect/pickup_02.effect
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+        Dependency_1: effect/effect.dps
+    Info_16:
+      Name: model/resource/resource.dps
+      Dependencies: {}
+    Info_17:
+      Name: effect/pickup_01.effect
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+        Dependency_1: effect/effect.dps
+    Info_18:
+      Name: model/resource/source02.model
+      Dependencies:
+        Dependency_0: model/resource/resource.dps
+    Info_19:
+      Name: model/resource/source.model
+      Dependencies:
+        Dependency_0: model/resource/resource.dps
+    Info_20:
+      Name: model/wreckage/wreckage_03.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_21:
+      Name: model/wreckage/planet.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_22:
+      Name: level/1001.level
+      Dependencies: {}
+    Info_23:
+      Name: level/222.level
+      Dependencies: {}
+    Info_24:
+      Name: model/wreckage/obstacle_03.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_25:
+      Name: model/wreckage/obstacle_02.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_26:
+      Name: model/wreckage/obstacle_04.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_27:
+      Name: level/1002.level
+      Dependencies: {}
+    Info_28:
+      Name: model/wreckage/wreckage_01_s.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_29:
+      Name: model/wreckage/wreckage_01_m.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_30:
+      Name: effect/electric_01.effect
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_31:
+      Name: model/resource/source03.model
+      Dependencies:
+        Dependency_0: model/resource/resource.dps
+    Info_32:
+      Name: effect/pickup_03.effect
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+        Dependency_1: effect/effect.dps
+    Info_33:
+      Name: model/wreckage/core_electric.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_34:
+      Name: model/wreckage/obstacle_06_01.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_35:
+      Name: model/wreckage/wreckage_01_l.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_36:
+      Name: model/wreckage/obstacle_06.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_37:
+      Name: model/wreckage/wreckage_portal.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_38:
+      Name: model/wreckage/obstacle_05_01.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_39:
+      Name: model/wreckage/obstacle_05.model
+      Dependencies:
+        Dependency_0: model/wreckage/wreckage.dps
+    Info_40:
+      Name: level/1003.level
+      Dependencies: {}

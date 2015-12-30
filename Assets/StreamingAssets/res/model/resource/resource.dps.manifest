@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1148274158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10aa88e280edd474530cf6b2abd4565e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ac58ccb213681f84ec4a6e4d48c36f6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Model/Resource/FBX/source01.controller
+- Assets/Res/Model/Resource/FBX/source_animation.anim
+- Assets/Res/Model/Resource/FBX/Materials/source_03.mat
+- Assets/Res/Model/Resource/FBX/textures/LightSquareCookie.psd
+- Assets/Res/Model/Resource/FBX/Materials/source_01.mat
+- Assets/Res/Model/Resource/FBX/Materials/source_02.mat
+Dependencies: []

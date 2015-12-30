@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 549888390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 980aec5d9e596cc142cafa9265a36da8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f00febdec6d407558587e022a7c1e37c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Model/Resource/Prefabs/source03.prefab
+Dependencies:
+- Assets/GameRes/trunk/android/res/model/resource/resource.dps

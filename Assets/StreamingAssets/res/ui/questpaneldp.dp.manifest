@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3810609895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b8276b1f069ba4fd32cea97a0de97a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 611c1ac5554d3ed0f33df45c17bbb2f3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/UI/panel/Quest/quest_show.anim
+- Assets/Res/UI/panel/Quest/QuestAnimator.controller
+Dependencies: []

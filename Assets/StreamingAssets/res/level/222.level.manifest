@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1515575228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64084b3973ce8e38ef6f2bf082faf053
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 05cb699717dd2bf05099330f039f4765
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 1865770508, guid: d797ed881dcc0004988b2ea8aeedcf27, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/ScriptObjects/222.asset
+Dependencies: []

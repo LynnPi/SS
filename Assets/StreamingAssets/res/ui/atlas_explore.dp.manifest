@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 3729827410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4452ce70bc6a3d06062540d89baa79e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 00ffc586b3c4c12c72c7fed589b81235
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/UI/sprites/GameOverScene/Frame_over.png
+- Assets/Res/UI/sprites/ExploreScene/Button_bag_hp.png
+- Assets/Res/UI/sprites/ExploreScene/pickup.png
+- Assets/Res/UI/sprites/ExploreScene/Button_bag.png
+- Assets/Res/UI/sprites/ExploreScene/Button_push-disable.png
+- Assets/Res/UI/sprites/ExploreScene/aim.png
+- Assets/Res/UI/sprites/ExploreScene/icon_guide_dot.png
+- Assets/Res/UI/sprites/ExploreScene/icon_guide_1.png
+- Assets/Res/UI/sprites/ExploreScene/warning_filter.tga
+- Assets/Res/UI/sprites/ExploreScene/Frame_num_-1.png
+- Assets/Res/UI/sprites/ExploreScene/pickup_progress_bg.png
+- Assets/Res/UI/sprites/GameOverScene/Button_back.png
+- Assets/Res/UI/sprites/ExploreScene/icon_guide_2.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_num_8.png
+- Assets/Res/UI/sprites/ExploreScene/stretch_Progress.png
+- Assets/Res/UI/sprites/ExploreScene/icon_guide_box2.png
+- Assets/Res/UI/sprites/ExploreScene/Button_bag_up_1.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_num_2.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_num_1.png
+- Assets/Res/UI/sprites/ExploreScene/Button_push.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_num_3.png
+- Assets/Res/UI/sprites/ExploreScene/Button_bag_up_4.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_Dial_2.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_num_0.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_Dial_1.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_num_4.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_Progress.png
+- Assets/Res/UI/sprites/ExploreScene/Button_ReturnGame.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_Dial_3.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_num_9.png
+- Assets/Res/UI/sprites/ExploreScene/icon_guide_direction.png
+- Assets/Res/UI/sprites/ExploreScene/Button_site_return.png
+- Assets/Res/UI/sprites/ExploreScene/Single_bg.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_num_6.png
+- Assets/Res/UI/sprites/ExploreScene/Button_up-disable.png
+- Assets/Res/UI/sprites/ExploreScene/Button_site.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_Electric.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_num_7.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_Science.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_num_5.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_Distance_m.png
+- Assets/Res/UI/sprites/ExploreScene/Button_site_music.png
+- Assets/Res/UI/sprites/ExploreScene/Button_site_exit.png
+- Assets/Res/UI/sprites/ExploreScene/Button_up.png
+- Assets/Res/UI/sprites/ExploreScene/Headtail_bg.png
+- Assets/Res/UI/sprites/ExploreScene/Button_push_Selected.png
+- Assets/Res/UI/sprites/ExploreScene/icon_guide_box.png
+- Assets/Res/UI/sprites/ExploreScene/icon_guide_3.png
+- Assets/Res/UI/sprites/GameOverScene/Icon_gameover.png
+- Assets/Res/UI/sprites/ExploreScene/Button_bag_electric.png
+- Assets/Res/UI/sprites/ExploreScene/pickup_progress_fg.png
+- Assets/Res/UI/sprites/ExploreScene/Frame_Distance.png
+Dependencies: []
